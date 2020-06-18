@@ -19,6 +19,12 @@ We recommend getting at the very least a `hobby-dev` Postgres and Dyno for low v
 
 See our instructions on [upgrading PostHog](/upgrading-PostHog) on Heroku to the latest version.
 
+## Platform.sh
+
+[![Deploy with Platform.sh](https://platform.sh/images/deploy/deploy-button-lg-blue.svg)](https://console.platform.sh/projects/create-project/?template=https://github.com/posthog/posthog&utm_campaign=deploy_on_platform?utm_medium=button&utm_source=affiliate_links&utm_content=https://github.com/posthog/posthog)
+
+Platform.sh is an equi-quickest way to get a production PostHog environment up-and-running. The deployment is controlled through configurations files in the `.platform` directory. You can find there a README.md with some details on the configuration options.
+
 ## Docker images
 
 We have [three types of images](https://hub.docker.com/r/posthog/posthog):
